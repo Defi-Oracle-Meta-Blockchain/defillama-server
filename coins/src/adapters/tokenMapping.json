@@ -390,6 +390,76 @@
       "to": "coingecko#polkamarkets",
       "decimals": 18,
       "symbol": "POLK"
+    },
+    "0x73376eb92c16977b126db9112936a20fa0de3442": {
+      "decimals": "6",
+      "symbol": "cWUSDT",
+      "to": "asset#dfio_meta_main:0x93e66202a11b1772e55407b32b44e5cd8eda7f22"
+    },
+    "0x4c38f9a5ed68a04cd28a72e8c68c459ec34576f3": {
+      "decimals": "6",
+      "symbol": "cWUSDC",
+      "to": "asset#dfio_meta_main:0xf22258f57794cc8e06237084b353ab30fffa640b"
+    },
+    "0xb6d2f38b9015f32cce8818509c712264e7fceed3": {
+      "decimals": "6",
+      "symbol": "cWEURC",
+      "to": "asset#dfio_meta_main:0x8085961f9cf02b4d800a3c6d386d31da4b34266a"
+    },
+    "0x7e6fb8d80f81430e560f8232b2a4fd06249d74ce": {
+      "decimals": "6",
+      "symbol": "cWEURT",
+      "to": "asset#dfio_meta_main:0xdf4b71c61e5912712c1bdd451416b9ac26949d72"
+    },
+    "0xe37c332a88f112f9e039c5d92d821402a89c7052": {
+      "decimals": "6",
+      "symbol": "cWGBPC",
+      "to": "asset#dfio_meta_main:0x003960f16d9d34f2e98d62723b6721fb92074ad2"
+    },
+    "0x1dba81f91f1bec47fff60ec3e7ded780ad9968e3": {
+      "decimals": "6",
+      "symbol": "cWGBPT",
+      "to": "asset#dfio_meta_main:0x350f54e4d23795f86a9c03988c7135357ccad97c"
+    },
+    "0x2d3a2ed4ca4d69912d217c305ee921609f7906a8": {
+      "decimals": "6",
+      "symbol": "cWAUDC",
+      "to": "asset#dfio_meta_main:0xd51482e567c03899eece3cae8a058161fd56069d"
+    },
+    "0x0b39f47d2e68ab0eb18d4b637bbd1dd8e97cfbb5": {
+      "decimals": "6",
+      "symbol": "cWJPYC",
+      "to": "asset#dfio_meta_main:0xee269e1226a334182aace90056ee4ee5cc8a6770"
+    },
+    "0x8142ba530b08f3950128601f00daaa678213dfdf": {
+      "decimals": "6",
+      "symbol": "cWCHFC",
+      "to": "asset#dfio_meta_main:0x873990849dda5117d7c644f0af24370797c03885"
+    },
+    "0x0c242b513008cd49c89078f5afb237a3112251eb": {
+      "decimals": "6",
+      "symbol": "cWCADC",
+      "to": "asset#dfio_meta_main:0x54dbd40cf05e15906a2c21f600937e96787f5679"
+    },
+    "0x61d642979ed75c1325f35b9275c5a7fe97f22451": {
+      "decimals": "6",
+      "symbol": "cWXAUC",
+      "to": "asset#dfio_meta_main:0x290e52a8819a4fbd0714e517225429aa2b70ec6b"
+    },
+    "0x30751782486eed825187c1eae5de4b4bad428aae": {
+      "decimals": "6",
+      "symbol": "cWXAUT",
+      "to": "asset#dfio_meta_main:0x94e408e26c6fd8f4ee00b54df19082fda07dc96e"
+    },
+    "0xcb7c00000000000000000000000000000000a4ec": {
+      "decimals": "8",
+      "symbol": "cWBTC",
+      "to": "asset#dfio_meta_main:0xe94260c555ac1d9d3cc9e1632883452ebdf0082e"
+    },
+    "0xb0fa7ec4123c7c275b3a89d9239569707ea3c66a": {
+      "decimals": "18",
+      "symbol": "cWCELO",
+      "to": "coingecko#ethereum"
     }
   },
   "sui": {
@@ -1037,6 +1107,76 @@
       "decimals": "18",
       "symbol": "BEPRO",
       "to": "coingecko#bepro-network"
+    },
+    "0x0cb0192c056aa425c557bdead8e56c7eeabf7acf": {
+      "decimals": "6",
+      "symbol": "cWUSDT",
+      "to": "asset#dfio_meta_main:0x93e66202a11b1772e55407b32b44e5cd8eda7f22"
+    },
+    "0xd6969bc19b53f866c64f2148ae271b2dae0c58e4": {
+      "decimals": "6",
+      "symbol": "cWUSDC",
+      "to": "asset#dfio_meta_main:0xf22258f57794cc8e06237084b353ab30fffa640b"
+    },
+    "0x3cd9ee18db7ad13616fcc1c83bc6098e03968e66": {
+      "decimals": "6",
+      "symbol": "cWEURC",
+      "to": "asset#dfio_meta_main:0x8085961f9cf02b4d800a3c6d386d31da4b34266a"
+    },
+    "0xbef5a0bcc0e77740c910f197138cdd90f98d2427": {
+      "decimals": "6",
+      "symbol": "cWEURT",
+      "to": "asset#dfio_meta_main:0xdf4b71c61e5912712c1bdd451416b9ac26949d72"
+    },
+    "0x948690147d2e50ffe50c5d38c14125ad6a9fa036": {
+      "decimals": "6",
+      "symbol": "cWGBPC",
+      "to": "asset#dfio_meta_main:0x003960f16d9d34f2e98d62723b6721fb92074ad2"
+    },
+    "0x58a8d8f78f1b65c06dad7542ec46b299629a60dd": {
+      "decimals": "6",
+      "symbol": "cWGBPT",
+      "to": "asset#dfio_meta_main:0x350f54e4d23795f86a9c03988c7135357ccad97c"
+    },
+    "0xfb4b6cc81211f7d886950158294a44c312abca29": {
+      "decimals": "6",
+      "symbol": "cWAUDC",
+      "to": "asset#dfio_meta_main:0xd51482e567c03899eece3cae8a058161fd56069d"
+    },
+    "0xf9f5d0acd71c76f9476f10b3f3d3e201f0883c68": {
+      "decimals": "6",
+      "symbol": "cWJPYC",
+      "to": "asset#dfio_meta_main:0xee269e1226a334182aace90056ee4ee5cc8a6770"
+    },
+    "0xee17bb0322383fecca2784fbe2d4cd7d02b1905b": {
+      "decimals": "6",
+      "symbol": "cWCHFC",
+      "to": "asset#dfio_meta_main:0x873990849dda5117d7c644f0af24370797c03885"
+    },
+    "0xc9750828124d4c10e7a6f4b655ca8487bd3842eb": {
+      "decimals": "6",
+      "symbol": "cWCADC",
+      "to": "asset#dfio_meta_main:0x54dbd40cf05e15906a2c21f600937e96787f5679"
+    },
+    "0x328cd365bb35524297e68ed28c6ff2c9557d1363": {
+      "decimals": "6",
+      "symbol": "cWXAUC",
+      "to": "asset#dfio_meta_main:0x290e52a8819a4fbd0714e517225429aa2b70ec6b"
+    },
+    "0x9e6044d730d4183bf7a666293d257d035fba6d44": {
+      "decimals": "6",
+      "symbol": "cWXAUT",
+      "to": "asset#dfio_meta_main:0x94e408e26c6fd8f4ee00b54df19082fda07dc96e"
+    },
+    "0xcb7c000000000000000000000000000000000089": {
+      "decimals": "8",
+      "symbol": "cWBTC",
+      "to": "asset#dfio_meta_main:0xe94260c555ac1d9d3cc9e1632883452ebdf0082e"
+    },
+    "0x25980244aacecb6d8c4b887261ed27f87cb2fc73": {
+      "decimals": "18",
+      "symbol": "cWPOL",
+      "to": "coingecko#ethereum"
     }
   },
   "evmos": {
@@ -2747,6 +2887,76 @@
       "decimals": "27",
       "symbol": "WTON",
       "to": "asset#ethereum:0x2be5e8c109e2197D077D13A82dAead6a9b3433C5"
+    },
+    "0xaf5017d0163ecb99d9b5d94e3b4d7b09af44d8ae": {
+      "decimals": "6",
+      "symbol": "cWUSDT",
+      "to": "asset#dfio_meta_main:0x93e66202a11b1772e55407b32b44e5cd8eda7f22"
+    },
+    "0x2de5f116bfce3d0f922d9c8351e0c5fc24b9284a": {
+      "decimals": "6",
+      "symbol": "cWUSDC",
+      "to": "asset#dfio_meta_main:0xf22258f57794cc8e06237084b353ab30fffa640b"
+    },
+    "0xd4aeaa8cd3fb41dc8437fac7639b6d91b60a5e8d": {
+      "decimals": "6",
+      "symbol": "cWEURC",
+      "to": "asset#dfio_meta_main:0x8085961f9cf02b4d800a3c6d386d31da4b34266a"
+    },
+    "0x855d74ffb6cf75721a9babc8b2ed35c8119241dc": {
+      "decimals": "6",
+      "symbol": "cWEURT",
+      "to": "asset#dfio_meta_main:0xdf4b71c61e5912712c1bdd451416b9ac26949d72"
+    },
+    "0xc074007dc0bfb384b1cf6426a56287ed23fe4d52": {
+      "decimals": "6",
+      "symbol": "cWGBPC",
+      "to": "asset#dfio_meta_main:0x003960f16d9d34f2e98d62723b6721fb92074ad2"
+    },
+    "0x1ddf9970f01c76a692fdba2706203e6f16e0c46f": {
+      "decimals": "6",
+      "symbol": "cWGBPT",
+      "to": "asset#dfio_meta_main:0x350f54e4d23795f86a9c03988c7135357ccad97c"
+    },
+    "0x5020db641b3fc0dabbc0c688c845bc4e3699f35f": {
+      "decimals": "6",
+      "symbol": "cWAUDC",
+      "to": "asset#dfio_meta_main:0xd51482e567c03899eece3cae8a058161fd56069d"
+    },
+    "0x07eed0d7dd40984e47b9d3a3bdded1c536435582": {
+      "decimals": "6",
+      "symbol": "cWJPYC",
+      "to": "asset#dfio_meta_main:0xee269e1226a334182aace90056ee4ee5cc8a6770"
+    },
+    "0x0f91c5e6ddd46403746aac970d05d70ffe404780": {
+      "decimals": "6",
+      "symbol": "cWCHFC",
+      "to": "asset#dfio_meta_main:0x873990849dda5117d7c644f0af24370797c03885"
+    },
+    "0x209fe32fe7b541751d190ae4e50cd005dcf8edb4": {
+      "decimals": "6",
+      "symbol": "cWCADC",
+      "to": "asset#dfio_meta_main:0x54dbd40cf05e15906a2c21f600937e96787f5679"
+    },
+    "0x572be0fa8ca0534d642a567cedb398b771d8a715": {
+      "decimals": "6",
+      "symbol": "cWXAUC",
+      "to": "asset#dfio_meta_main:0x290e52a8819a4fbd0714e517225429aa2b70ec6b"
+    },
+    "0xace1dbf857549a11af1322e1f91f2f64b029c906": {
+      "decimals": "6",
+      "symbol": "cWXAUT",
+      "to": "asset#dfio_meta_main:0x94e408e26c6fd8f4ee00b54df19082fda07dc96e"
+    },
+    "0xcb7c000000000000000000000000000000000001": {
+      "decimals": "8",
+      "symbol": "cWBTC",
+      "to": "asset#dfio_meta_main:0xe94260c555ac1d9d3cc9e1632883452ebdf0082e"
+    },
+    "0xf6dc5587e18f27adff60e303fdd98f35b50fa8a5": {
+      "decimals": "18",
+      "symbol": "cWETH",
+      "to": "coingecko#ethereum"
     }
   },
   "fantom": {
@@ -4069,6 +4279,76 @@
       "decimals": "18",
       "symbol": "XYZon",
       "to": "asset#ethereum:0x6cc41275ef02b4eeccc04fc4424849a96f3272aa"
+    },
+    "0x9a1d0dbee997929ed02fd19e0e199704d20914db": {
+      "decimals": "6",
+      "symbol": "cWUSDT",
+      "to": "asset#dfio_meta_main:0x93e66202a11b1772e55407b32b44e5cd8eda7f22"
+    },
+    "0x5355148c4740fcc3d7a96f05edd89ab14851206b": {
+      "decimals": "6",
+      "symbol": "cWUSDC",
+      "to": "asset#dfio_meta_main:0xf22258f57794cc8e06237084b353ab30fffa640b"
+    },
+    "0x50b073d0d1d2f002745cb9fc28a057d5be84911c": {
+      "decimals": "6",
+      "symbol": "cWEURC",
+      "to": "asset#dfio_meta_main:0x8085961f9cf02b4d800a3c6d386d31da4b34266a"
+    },
+    "0x1ed9e491a5ecd53bef21962a5fce24880264f63f": {
+      "decimals": "6",
+      "symbol": "cWEURT",
+      "to": "asset#dfio_meta_main:0xdf4b71c61e5912712c1bdd451416b9ac26949d72"
+    },
+    "0x8b6ee72001cafcb21d56a6c4686d6db951d499a6": {
+      "decimals": "6",
+      "symbol": "cWGBPC",
+      "to": "asset#dfio_meta_main:0x003960f16d9d34f2e98d62723b6721fb92074ad2"
+    },
+    "0xa6efb8783c8ad2740ec880e46d4f7e608e893b1b": {
+      "decimals": "6",
+      "symbol": "cWGBPT",
+      "to": "asset#dfio_meta_main:0x350f54e4d23795f86a9c03988c7135357ccad97c"
+    },
+    "0x7062f35567bbab4d98dc33af03b0d14df42294d5": {
+      "decimals": "6",
+      "symbol": "cWAUDC",
+      "to": "asset#dfio_meta_main:0xd51482e567c03899eece3cae8a058161fd56069d"
+    },
+    "0x5fbce65524211bc1bfb0309fd9ee09e786c6d097": {
+      "decimals": "6",
+      "symbol": "cWJPYC",
+      "to": "asset#dfio_meta_main:0xee269e1226a334182aace90056ee4ee5cc8a6770"
+    },
+    "0xd9f8710caeeba3b3d423d7d14a918701426b5ef3": {
+      "decimals": "6",
+      "symbol": "cWCHFC",
+      "to": "asset#dfio_meta_main:0x873990849dda5117d7c644f0af24370797c03885"
+    },
+    "0x9ae7a6b311584d60fa93f973950d609061875775": {
+      "decimals": "6",
+      "symbol": "cWCADC",
+      "to": "asset#dfio_meta_main:0x54dbd40cf05e15906a2c21f600937e96787f5679"
+    },
+    "0xcb145ba9a370681e3545f60e55621ebf218b1031": {
+      "decimals": "6",
+      "symbol": "cWXAUC",
+      "to": "asset#dfio_meta_main:0x290e52a8819a4fbd0714e517225429aa2b70ec6b"
+    },
+    "0x73e0cf8bf861d376b3a4c87c136f975027f045ff": {
+      "decimals": "6",
+      "symbol": "cWXAUT",
+      "to": "asset#dfio_meta_main:0x94e408e26c6fd8f4ee00b54df19082fda07dc96e"
+    },
+    "0xcb7c000000000000000000000000000000000038": {
+      "decimals": "8",
+      "symbol": "cWBTC",
+      "to": "asset#dfio_meta_main:0xe94260c555ac1d9d3cc9e1632883452ebdf0082e"
+    },
+    "0x179034a08ac2c9c35d2e41239f68c79dca6f18fa": {
+      "decimals": "18",
+      "symbol": "cWBNB",
+      "to": "coingecko#ethereum"
     }
   },
   "stacks": {
@@ -4478,6 +4758,76 @@
       "decimals": "18",
       "symbol": "PGOLD",
       "to": "coingecko#pleasing-gold"
+    },
+    "0x73adaf7dba95221c080db5631466d2bc54f6a76b": {
+      "decimals": "6",
+      "symbol": "cWUSDT",
+      "to": "asset#dfio_meta_main:0x93e66202a11b1772e55407b32b44e5cd8eda7f22"
+    },
+    "0x0cb0192c056aa425c557bdead8e56c7eeabf7acf": {
+      "decimals": "6",
+      "symbol": "cWUSDC",
+      "to": "asset#dfio_meta_main:0xf22258f57794cc8e06237084b353ab30fffa640b"
+    },
+    "0x2a0023ad5ce1ac6072b454575996dffb1bb11b16": {
+      "decimals": "6",
+      "symbol": "cWEURC",
+      "to": "asset#dfio_meta_main:0x8085961f9cf02b4d800a3c6d386d31da4b34266a"
+    },
+    "0x22b98130ab4d9c355512b25ade4c35e75a4e7e89": {
+      "decimals": "6",
+      "symbol": "cWEURT",
+      "to": "asset#dfio_meta_main:0xdf4b71c61e5912712c1bdd451416b9ac26949d72"
+    },
+    "0xa846aead3071df1b6439d5d813156ace7c2c1da1": {
+      "decimals": "6",
+      "symbol": "cWGBPC",
+      "to": "asset#dfio_meta_main:0x003960f16d9d34f2e98d62723b6721fb92074ad2"
+    },
+    "0x29828e9ab2057cd3df3c9211455ae1f76e53d2af": {
+      "decimals": "6",
+      "symbol": "cWGBPT",
+      "to": "asset#dfio_meta_main:0x350f54e4d23795f86a9c03988c7135357ccad97c"
+    },
+    "0xc1535e88578d984f12eab55863376b8d8b9fb05a": {
+      "decimals": "6",
+      "symbol": "cWAUDC",
+      "to": "asset#dfio_meta_main:0xd51482e567c03899eece3cae8a058161fd56069d"
+    },
+    "0xdc383c489533a4dd9a6bd3007386e25d5078b878": {
+      "decimals": "6",
+      "symbol": "cWJPYC",
+      "to": "asset#dfio_meta_main:0xee269e1226a334182aace90056ee4ee5cc8a6770"
+    },
+    "0x7e4b4682453bcce19ec903fb69153d3031986bc4": {
+      "decimals": "6",
+      "symbol": "cWCHFC",
+      "to": "asset#dfio_meta_main:0x873990849dda5117d7c644f0af24370797c03885"
+    },
+    "0xcc6ae6016d564e9ab82aaff44d65e05a9b18951c": {
+      "decimals": "6",
+      "symbol": "cWCADC",
+      "to": "asset#dfio_meta_main:0x54dbd40cf05e15906a2c21f600937e96787f5679"
+    },
+    "0xa7762b63c4871581885ad17c5714ebb286a7480b": {
+      "decimals": "6",
+      "symbol": "cWXAUC",
+      "to": "asset#dfio_meta_main:0x290e52a8819a4fbd0714e517225429aa2b70ec6b"
+    },
+    "0x66568899ffe8f00b25dc470e878b65a478994e76": {
+      "decimals": "6",
+      "symbol": "cWXAUT",
+      "to": "asset#dfio_meta_main:0x94e408e26c6fd8f4ee00b54df19082fda07dc96e"
+    },
+    "0xcb7c00000000000000000000000000000000a4b1": {
+      "decimals": "8",
+      "symbol": "cWBTC",
+      "to": "asset#dfio_meta_main:0xe94260c555ac1d9d3cc9e1632883452ebdf0082e"
+    },
+    "0xe27be001bc55cb2a8ed5ba5a62c834ca135244a3": {
+      "decimals": "18",
+      "symbol": "cWETHL2",
+      "to": "coingecko#ethereum"
     }
   },
   "tezos": {
@@ -4567,6 +4917,76 @@
       "to": "coingecko#renzo-restaked-eth",
       "decimals": 18,
       "symbol": "ezETH"
+    },
+    "0x04b2ae3c3bb3d70df506fad8717b0fbfc78ed7e6": {
+      "decimals": "6",
+      "symbol": "cWUSDT",
+      "to": "asset#dfio_meta_main:0x93e66202a11b1772e55407b32b44e5cd8eda7f22"
+    },
+    "0x377a5faa3162b3fc6f4e267301a3c817bad18105": {
+      "decimals": "6",
+      "symbol": "cWUSDC",
+      "to": "asset#dfio_meta_main:0xf22258f57794cc8e06237084b353ab30fffa640b"
+    },
+    "0x4ab39b5bab7b463435209a9039bd40cf241f5a82": {
+      "decimals": "6",
+      "symbol": "cWEURC",
+      "to": "asset#dfio_meta_main:0x8085961f9cf02b4d800a3c6d386d31da4b34266a"
+    },
+    "0x6f521cd9fcf7884cd4e9486c7790e818638e09dd": {
+      "decimals": "6",
+      "symbol": "cWEURT",
+      "to": "asset#dfio_meta_main:0xdf4b71c61e5912712c1bdd451416b9ac26949d72"
+    },
+    "0x3f8c409c6072a2b6a4ff17071927ba70f80c725f": {
+      "decimals": "6",
+      "symbol": "cWGBPC",
+      "to": "asset#dfio_meta_main:0x003960f16d9d34f2e98d62723b6721fb92074ad2"
+    },
+    "0x456373d095d6b9260f01709f93fccf1d8aa14d11": {
+      "decimals": "6",
+      "symbol": "cWGBPT",
+      "to": "asset#dfio_meta_main:0x350f54e4d23795f86a9c03988c7135357ccad97c"
+    },
+    "0x25603ae4bff0b71d637b3573d1b6657f5f6d17ef": {
+      "decimals": "6",
+      "symbol": "cWAUDC",
+      "to": "asset#dfio_meta_main:0xd51482e567c03899eece3cae8a058161fd56069d"
+    },
+    "0x8e54c52d34a684e22865ac9f2d7c27c30561a7b9": {
+      "decimals": "6",
+      "symbol": "cWJPYC",
+      "to": "asset#dfio_meta_main:0xee269e1226a334182aace90056ee4ee5cc8a6770"
+    },
+    "0x4d9bc6c74ba65e37c4139f0aec9fc5ddff28dcc4": {
+      "decimals": "6",
+      "symbol": "cWCHFC",
+      "to": "asset#dfio_meta_main:0x873990849dda5117d7c644f0af24370797c03885"
+    },
+    "0x9f6d2578003fe04e58a9819a4943732f2a203a61": {
+      "decimals": "6",
+      "symbol": "cWCADC",
+      "to": "asset#dfio_meta_main:0x54dbd40cf05e15906a2c21f600937e96787f5679"
+    },
+    "0xddc4063f770f7c49d00b5a10fb552e922aa39b2c": {
+      "decimals": "6",
+      "symbol": "cWXAUC",
+      "to": "asset#dfio_meta_main:0x290e52a8819a4fbd0714e517225429aa2b70ec6b"
+    },
+    "0x145e8e8c49b6a021969dd9d2c01c8fea44374f61": {
+      "decimals": "6",
+      "symbol": "cWXAUT",
+      "to": "asset#dfio_meta_main:0x94e408e26c6fd8f4ee00b54df19082fda07dc96e"
+    },
+    "0xcb7c00000000000000000000000000000000000a": {
+      "decimals": "8",
+      "symbol": "cWBTC",
+      "to": "asset#dfio_meta_main:0xe94260c555ac1d9d3cc9e1632883452ebdf0082e"
+    },
+    "0x95007ec50d0766162f77848edf7bdc4eba147fb4": {
+      "decimals": "18",
+      "symbol": "cWETHL2",
+      "to": "coingecko#ethereum"
     }
   },
   "rsk": {
@@ -5005,6 +5425,76 @@
       "decimals": "6",
       "symbol": "JTRSY",
       "to": "asset#ethereum:0x8c213ee79581ff4984583c6a801e5263418c4b86"
+    },
+    "0x8142ba530b08f3950128601f00daaa678213dfdf": {
+      "decimals": "6",
+      "symbol": "cWUSDT",
+      "to": "asset#dfio_meta_main:0x93e66202a11b1772e55407b32b44e5cd8eda7f22"
+    },
+    "0x0c242b513008cd49c89078f5afb237a3112251eb": {
+      "decimals": "6",
+      "symbol": "cWUSDC",
+      "to": "asset#dfio_meta_main:0xf22258f57794cc8e06237084b353ab30fffa640b"
+    },
+    "0x84353ed1f0c7a703a17abad19b0db15bc9a5e3e5": {
+      "decimals": "6",
+      "symbol": "cWEURC",
+      "to": "asset#dfio_meta_main:0x8085961f9cf02b4d800a3c6d386d31da4b34266a"
+    },
+    "0xfc7d256e48253f7a7e08f0e55b9ff7039eb2524c": {
+      "decimals": "6",
+      "symbol": "cWEURT",
+      "to": "asset#dfio_meta_main:0xdf4b71c61e5912712c1bdd451416b9ac26949d72"
+    },
+    "0xbdf0c4ea1d81e8e769b0f41389a2c733e3ff723e": {
+      "decimals": "6",
+      "symbol": "cWGBPC",
+      "to": "asset#dfio_meta_main:0x003960f16d9d34f2e98d62723b6721fb92074ad2"
+    },
+    "0x4611d3424e059392a52b957e508273bc761c80f2": {
+      "decimals": "6",
+      "symbol": "cWGBPT",
+      "to": "asset#dfio_meta_main:0x350f54e4d23795f86a9c03988c7135357ccad97c"
+    },
+    "0x04e1e22b0d41e99f4275bd40a50480219bc9a223": {
+      "decimals": "6",
+      "symbol": "cWAUDC",
+      "to": "asset#dfio_meta_main:0xd51482e567c03899eece3cae8a058161fd56069d"
+    },
+    "0x3714b1a312e0916c7dcdc4edf480fc0339e59a59": {
+      "decimals": "6",
+      "symbol": "cWJPYC",
+      "to": "asset#dfio_meta_main:0xee269e1226a334182aace90056ee4ee5cc8a6770"
+    },
+    "0xc2fa05f12a75ac84ea778af9d6935ca807275e55": {
+      "decimals": "6",
+      "symbol": "cWCHFC",
+      "to": "asset#dfio_meta_main:0x873990849dda5117d7c644f0af24370797c03885"
+    },
+    "0x1872e033b30f3ce0498847926857433e0146394e": {
+      "decimals": "6",
+      "symbol": "cWCADC",
+      "to": "asset#dfio_meta_main:0x54dbd40cf05e15906a2c21f600937e96787f5679"
+    },
+    "0x4f95297c23d9f4a1032b1c6a2e553225cb175bee": {
+      "decimals": "6",
+      "symbol": "cWXAUC",
+      "to": "asset#dfio_meta_main:0x290e52a8819a4fbd0714e517225429aa2b70ec6b"
+    },
+    "0xd2b4dbf2f6bd6704e066d752eec61fb0be953fd3": {
+      "decimals": "6",
+      "symbol": "cWXAUT",
+      "to": "asset#dfio_meta_main:0x94e408e26c6fd8f4ee00b54df19082fda07dc96e"
+    },
+    "0xcb7c00000000000000000000000000000000a86a": {
+      "decimals": "8",
+      "symbol": "cWBTC",
+      "to": "asset#dfio_meta_main:0xe94260c555ac1d9d3cc9e1632883452ebdf0082e"
+    },
+    "0xe1d4aee2ef8f48a20338935188a8fe7f7c7de7d0": {
+      "decimals": "18",
+      "symbol": "cWAVAX",
+      "to": "coingecko#ethereum"
     }
   },
   "base": {
@@ -5642,6 +6132,76 @@
       "decimals": "18",
       "symbol": "efixDI",
       "to": "asset#polygon:0x04082b283818d9d0dd9ee8742892eee5cc396441"
+    },
+    "0x04b2ae3c3bb3d70df506fad8717b0fbfc78ed7e6": {
+      "decimals": "6",
+      "symbol": "cWUSDT",
+      "to": "asset#dfio_meta_main:0x93e66202a11b1772e55407b32b44e5cd8eda7f22"
+    },
+    "0x377a5faa3162b3fc6f4e267301a3c817bad18105": {
+      "decimals": "6",
+      "symbol": "cWUSDC",
+      "to": "asset#dfio_meta_main:0xf22258f57794cc8e06237084b353ab30fffa640b"
+    },
+    "0xcb145ba9a370681e3545f60e55621ebf218b1031": {
+      "decimals": "6",
+      "symbol": "cWEURC",
+      "to": "asset#dfio_meta_main:0x8085961f9cf02b4d800a3c6d386d31da4b34266a"
+    },
+    "0x73e0cf8bf861d376b3a4c87c136f975027f045ff": {
+      "decimals": "6",
+      "symbol": "cWEURT",
+      "to": "asset#dfio_meta_main:0xdf4b71c61e5912712c1bdd451416b9ac26949d72"
+    },
+    "0x2a0023ad5ce1ac6072b454575996dffb1bb11b16": {
+      "decimals": "6",
+      "symbol": "cWGBPC",
+      "to": "asset#dfio_meta_main:0x003960f16d9d34f2e98d62723b6721fb92074ad2"
+    },
+    "0x22b98130ab4d9c355512b25ade4c35e75a4e7e89": {
+      "decimals": "6",
+      "symbol": "cWGBPT",
+      "to": "asset#dfio_meta_main:0x350f54e4d23795f86a9c03988c7135357ccad97c"
+    },
+    "0xa846aead3071df1b6439d5d813156ace7c2c1da1": {
+      "decimals": "6",
+      "symbol": "cWAUDC",
+      "to": "asset#dfio_meta_main:0xd51482e567c03899eece3cae8a058161fd56069d"
+    },
+    "0x29828e9ab2057cd3df3c9211455ae1f76e53d2af": {
+      "decimals": "6",
+      "symbol": "cWJPYC",
+      "to": "asset#dfio_meta_main:0xee269e1226a334182aace90056ee4ee5cc8a6770"
+    },
+    "0xc1535e88578d984f12eab55863376b8d8b9fb05a": {
+      "decimals": "6",
+      "symbol": "cWCHFC",
+      "to": "asset#dfio_meta_main:0x873990849dda5117d7c644f0af24370797c03885"
+    },
+    "0xdc383c489533a4dd9a6bd3007386e25d5078b878": {
+      "decimals": "6",
+      "symbol": "cWCADC",
+      "to": "asset#dfio_meta_main:0x54dbd40cf05e15906a2c21f600937e96787f5679"
+    },
+    "0x7e4b4682453bcce19ec903fb69153d3031986bc4": {
+      "decimals": "6",
+      "symbol": "cWXAUC",
+      "to": "asset#dfio_meta_main:0x290e52a8819a4fbd0714e517225429aa2b70ec6b"
+    },
+    "0xcc6ae6016d564e9ab82aaff44d65e05a9b18951c": {
+      "decimals": "6",
+      "symbol": "cWXAUT",
+      "to": "asset#dfio_meta_main:0x94e408e26c6fd8f4ee00b54df19082fda07dc96e"
+    },
+    "0xcb7c000000000000000000000000000000002105": {
+      "decimals": "8",
+      "symbol": "cWBTC",
+      "to": "asset#dfio_meta_main:0xe94260c555ac1d9d3cc9e1632883452ebdf0082e"
+    },
+    "0x2a0840e5117683b11682ac46f5cf5621e67269e3": {
+      "decimals": "18",
+      "symbol": "cWETHL2",
+      "to": "coingecko#ethereum"
     }
   },
   "jbc": {
@@ -6073,6 +6633,76 @@
       "decimals": "6",
       "symbol": "TRUMP",
       "to": "coingecko#official-trump"
+    },
+    "0x72948a7a813b60b37cd0c920c4657dbff54312b8": {
+      "decimals": "6",
+      "symbol": "cWUSDT",
+      "to": "asset#dfio_meta_main:0x93e66202a11b1772e55407b32b44e5cd8eda7f22"
+    },
+    "0x932566e5bb6bebf6b035b94f3de1f75f126304ec": {
+      "decimals": "6",
+      "symbol": "cWUSDC",
+      "to": "asset#dfio_meta_main:0xf22258f57794cc8e06237084b353ab30fffa640b"
+    },
+    "0x7574d37f42528b47c88962931e48fc61608a4050": {
+      "decimals": "6",
+      "symbol": "cWEURC",
+      "to": "asset#dfio_meta_main:0x8085961f9cf02b4d800a3c6d386d31da4b34266a"
+    },
+    "0x9f833b4f1012f52eb3317b09922a79c6edfca77d": {
+      "decimals": "6",
+      "symbol": "cWEURT",
+      "to": "asset#dfio_meta_main:0xdf4b71c61e5912712c1bdd451416b9ac26949d72"
+    },
+    "0xe5c65a76a541368d3061fe9e7a2140cabb903dbf": {
+      "decimals": "6",
+      "symbol": "cWGBPC",
+      "to": "asset#dfio_meta_main:0x003960f16d9d34f2e98d62723b6721fb92074ad2"
+    },
+    "0xbb58fa16bac8e789f09c14243adee6480d8213a2": {
+      "decimals": "6",
+      "symbol": "cWGBPT",
+      "to": "asset#dfio_meta_main:0x350f54e4d23795f86a9c03988c7135357ccad97c"
+    },
+    "0xff3084410a732231472ee9f93f5855da89cc5254": {
+      "decimals": "6",
+      "symbol": "cWAUDC",
+      "to": "asset#dfio_meta_main:0xd51482e567c03899eece3cae8a058161fd56069d"
+    },
+    "0x52ad62b8bd01154e2a4e067f8dc4144c9988d203": {
+      "decimals": "6",
+      "symbol": "cWJPYC",
+      "to": "asset#dfio_meta_main:0xee269e1226a334182aace90056ee4ee5cc8a6770"
+    },
+    "0xb55f49d6316322d5caa96d34c6e4b1003bd3e670": {
+      "decimals": "6",
+      "symbol": "cWCHFC",
+      "to": "asset#dfio_meta_main:0x873990849dda5117d7c644f0af24370797c03885"
+    },
+    "0x32ad687f24f77bf8c86605c202c829163ac5ab36": {
+      "decimals": "6",
+      "symbol": "cWCADC",
+      "to": "asset#dfio_meta_main:0x54dbd40cf05e15906a2c21f600937e96787f5679"
+    },
+    "0xf1b771c95573113e993374c0c7cb2dc1a7908b12": {
+      "decimals": "6",
+      "symbol": "cWXAUC",
+      "to": "asset#dfio_meta_main:0x290e52a8819a4fbd0714e517225429aa2b70ec6b"
+    },
+    "0xd517c0cf7013f988946a468c880cc9f8e2a4bcbe": {
+      "decimals": "6",
+      "symbol": "cWXAUT",
+      "to": "asset#dfio_meta_main:0x94e408e26c6fd8f4ee00b54df19082fda07dc96e"
+    },
+    "0xcb7c000000000000000000000000000000000019": {
+      "decimals": "8",
+      "symbol": "cWBTC",
+      "to": "asset#dfio_meta_main:0xe94260c555ac1d9d3cc9e1632883452ebdf0082e"
+    },
+    "0x9b10eb0f77c45322dbd1fcb07176fd9a7609c164": {
+      "decimals": "18",
+      "symbol": "cWCRO",
+      "to": "coingecko#ethereum"
     }
   },
   "scroll": {
@@ -9799,7 +10429,7 @@
     },
     "0x9151434b16b9763660705744891fa906f660ecc5": {
       "decimals": "6",
-      "symbol": "USD₮0",
+      "symbol": "USD\u20ae0",
       "to": "coingecko#tether"
     },
     "0x80Eede496655FB9047dd39d9f418d5483ED600df": {
@@ -14073,7 +14703,7 @@
     "0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb": {
       "to": "coingecko#tether",
       "decimals": 6,
-      "symbol": "USD₮0"
+      "symbol": "USD\u20ae0"
     },
     "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34": {
       "to": "coingecko#ethena-usde",
@@ -15695,7 +16325,7 @@
     "0xaf988c3f7cb2aceabb15f96b19388a259b6c438f": {
       "to": "coingecko#tether",
       "decimals": 6,
-      "symbol": "USD₮"
+      "symbol": "USD\u20ae"
     }
   },
   "initia": {
@@ -16304,7 +16934,7 @@
     "0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb": {
       "to": "coingecko#tether",
       "decimals": 6,
-      "symbol": "USD₮0"
+      "symbol": "USD\u20ae0"
     },
     "0xA3D68b74bF0528fdD07263c60d6488749044914b": {
       "to": "coingecko#wrapped-eeth",
@@ -17355,6 +17985,76 @@
       "decimals": "18",
       "symbol": "bERNX",
       "to": "asset#ethereum:0x3f95aa88ddbb7d9d484aa3d482bf0a80009c52c9"
+    },
+    "0x0cb0192c056aa425c557bdead8e56c7eeabf7acf": {
+      "decimals": "6",
+      "symbol": "cWUSDT",
+      "to": "asset#dfio_meta_main:0x93e66202a11b1772e55407b32b44e5cd8eda7f22"
+    },
+    "0xd6969bc19b53f866c64f2148ae271b2dae0c58e4": {
+      "decimals": "6",
+      "symbol": "cWUSDC",
+      "to": "asset#dfio_meta_main:0xf22258f57794cc8e06237084b353ab30fffa640b"
+    },
+    "0x25603ae4bff0b71d637b3573d1b6657f5f6d17ef": {
+      "decimals": "6",
+      "symbol": "cWEURC",
+      "to": "asset#dfio_meta_main:0x8085961f9cf02b4d800a3c6d386d31da4b34266a"
+    },
+    "0x8e54c52d34a684e22865ac9f2d7c27c30561a7b9": {
+      "decimals": "6",
+      "symbol": "cWEURT",
+      "to": "asset#dfio_meta_main:0xdf4b71c61e5912712c1bdd451416b9ac26949d72"
+    },
+    "0x4d9bc6c74ba65e37c4139f0aec9fc5ddff28dcc4": {
+      "decimals": "6",
+      "symbol": "cWGBPC",
+      "to": "asset#dfio_meta_main:0x003960f16d9d34f2e98d62723b6721fb92074ad2"
+    },
+    "0x9f6d2578003fe04e58a9819a4943732f2a203a61": {
+      "decimals": "6",
+      "symbol": "cWGBPT",
+      "to": "asset#dfio_meta_main:0x350f54e4d23795f86a9c03988c7135357ccad97c"
+    },
+    "0xddc4063f770f7c49d00b5a10fb552e922aa39b2c": {
+      "decimals": "6",
+      "symbol": "cWAUDC",
+      "to": "asset#dfio_meta_main:0xd51482e567c03899eece3cae8a058161fd56069d"
+    },
+    "0x145e8e8c49b6a021969dd9d2c01c8fea44374f61": {
+      "decimals": "6",
+      "symbol": "cWJPYC",
+      "to": "asset#dfio_meta_main:0xee269e1226a334182aace90056ee4ee5cc8a6770"
+    },
+    "0x46d90d7947f1139477c206c39268923b99cf09e4": {
+      "decimals": "6",
+      "symbol": "cWCHFC",
+      "to": "asset#dfio_meta_main:0x873990849dda5117d7c644f0af24370797c03885"
+    },
+    "0xa7133c78e0ec74503a5941bcbd44257615b6b4f6": {
+      "decimals": "6",
+      "symbol": "cWCADC",
+      "to": "asset#dfio_meta_main:0x54dbd40cf05e15906a2c21f600937e96787f5679"
+    },
+    "0x23873b85cfeb343eb952618e8c9e9bfb7f6a0d45": {
+      "decimals": "6",
+      "symbol": "cWXAUC",
+      "to": "asset#dfio_meta_main:0x290e52a8819a4fbd0714e517225429aa2b70ec6b"
+    },
+    "0xc6189d404dc60cae7b48e2190e44770a03193e5f": {
+      "decimals": "6",
+      "symbol": "cWXAUT",
+      "to": "asset#dfio_meta_main:0x94e408e26c6fd8f4ee00b54df19082fda07dc96e"
+    },
+    "0xcb7c000000000000000000000000000000000064": {
+      "decimals": "8",
+      "symbol": "cWBTC",
+      "to": "asset#dfio_meta_main:0xe94260c555ac1d9d3cc9e1632883452ebdf0082e"
+    },
+    "0x9f833b4f1012f52eb3317b09922a79c6edfca77d": {
+      "decimals": "18",
+      "symbol": "cWXDAI",
+      "to": "coingecko#ethereum"
     }
   },
   "proptech": {
@@ -17472,11 +18172,130 @@
       "symbol": "rETH"
     }
   },
-   "xo": {
-      "0xCf65732699b4eFc2Bc7b87fB6d75F3aAa6CFC867": {
+  "xo": {
+    "0xCf65732699b4eFc2Bc7b87fB6d75F3aAa6CFC867": {
       "to": "coingecko#usd-coin",
       "decimals": 18,
       "symbol": "USDC.e"
+    }
+  },
+  "dfio_meta_main": {
+    "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": {
+      "decimals": "18",
+      "symbol": "WETH",
+      "to": "asset#dfio_meta_main:0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+    },
+    "0xf4bb2e28688e89fcce3c0580d37d36a7672e8a9f": {
+      "decimals": "18",
+      "symbol": "WETH10",
+      "to": "asset#dfio_meta_main:0xf4bb2e28688e89fcce3c0580d37d36a7672e8a9f"
+    },
+    "0xb7721dd53a8c629d9f1ba31a5819afe250002b03": {
+      "decimals": "18",
+      "symbol": "LINK",
+      "to": "asset#dfio_meta_main:0xb7721dd53a8c629d9f1ba31a5819afe250002b03"
+    },
+    "0x93e66202a11b1772e55407b32b44e5cd8eda7f22": {
+      "decimals": "6",
+      "symbol": "cUSDT",
+      "to": "asset#dfio_meta_main:0x93e66202a11b1772e55407b32b44e5cd8eda7f22"
+    },
+    "0xf22258f57794cc8e06237084b353ab30fffa640b": {
+      "decimals": "6",
+      "symbol": "cUSDC",
+      "to": "asset#dfio_meta_main:0xf22258f57794cc8e06237084b353ab30fffa640b"
+    },
+    "0x8085961f9cf02b4d800a3c6d386d31da4b34266a": {
+      "decimals": "6",
+      "symbol": "cEURC",
+      "to": "asset#dfio_meta_main:0x8085961f9cf02b4d800a3c6d386d31da4b34266a"
+    },
+    "0xdf4b71c61e5912712c1bdd451416b9ac26949d72": {
+      "decimals": "6",
+      "symbol": "cEURT",
+      "to": "asset#dfio_meta_main:0xdf4b71c61e5912712c1bdd451416b9ac26949d72"
+    },
+    "0x003960f16d9d34f2e98d62723b6721fb92074ad2": {
+      "decimals": "6",
+      "symbol": "cGBPC",
+      "to": "asset#dfio_meta_main:0x003960f16d9d34f2e98d62723b6721fb92074ad2"
+    },
+    "0x350f54e4d23795f86a9c03988c7135357ccad97c": {
+      "decimals": "6",
+      "symbol": "cGBPT",
+      "to": "asset#dfio_meta_main:0x350f54e4d23795f86a9c03988c7135357ccad97c"
+    },
+    "0xd51482e567c03899eece3cae8a058161fd56069d": {
+      "decimals": "6",
+      "symbol": "cAUDC",
+      "to": "asset#dfio_meta_main:0xd51482e567c03899eece3cae8a058161fd56069d"
+    },
+    "0xee269e1226a334182aace90056ee4ee5cc8a6770": {
+      "decimals": "6",
+      "symbol": "cJPYC",
+      "to": "asset#dfio_meta_main:0xee269e1226a334182aace90056ee4ee5cc8a6770"
+    },
+    "0x873990849dda5117d7c644f0af24370797c03885": {
+      "decimals": "6",
+      "symbol": "cCHFC",
+      "to": "asset#dfio_meta_main:0x873990849dda5117d7c644f0af24370797c03885"
+    },
+    "0x54dbd40cf05e15906a2c21f600937e96787f5679": {
+      "decimals": "6",
+      "symbol": "cCADC",
+      "to": "asset#dfio_meta_main:0x54dbd40cf05e15906a2c21f600937e96787f5679"
+    },
+    "0x290e52a8819a4fbd0714e517225429aa2b70ec6b": {
+      "decimals": "6",
+      "symbol": "cXAUC",
+      "to": "asset#dfio_meta_main:0x290e52a8819a4fbd0714e517225429aa2b70ec6b"
+    },
+    "0x94e408e26c6fd8f4ee00b54df19082fda07dc96e": {
+      "decimals": "6",
+      "symbol": "cXAUT",
+      "to": "asset#dfio_meta_main:0x94e408e26c6fd8f4ee00b54df19082fda07dc96e"
+    },
+    "0xe94260c555ac1d9d3cc9e1632883452ebdf0082e": {
+      "decimals": "8",
+      "symbol": "cBTC",
+      "to": "asset#dfio_meta_main:0xe94260c555ac1d9d3cc9e1632883452ebdf0082e"
+    },
+    "0xff862f0d1f96aa4882a0c2d6b4a3516fd8d68e75": {
+      "decimals": "6",
+      "symbol": "LiXAU",
+      "to": "asset#dfio_meta_main:0xff862f0d1f96aa4882a0c2d6b4a3516fd8d68e75"
+    },
+    "0x148b0f5c6fc8c5975e9406635654d88b20db2ed6": {
+      "decimals": "6",
+      "symbol": "LiPMG",
+      "to": "asset#dfio_meta_main:0x148b0f5c6fc8c5975e9406635654d88b20db2ed6"
+    },
+    "0xc5b802662447d1ae492a1618c3ad7161a449ebc9": {
+      "decimals": "6",
+      "symbol": "LiBMG1",
+      "to": "asset#dfio_meta_main:0xc5b802662447d1ae492a1618c3ad7161a449ebc9"
+    },
+    "0x2ca3b3e7f4f216015833b0b334273d44493c0c45": {
+      "decimals": "6",
+      "symbol": "LiBMG2",
+      "to": "asset#dfio_meta_main:0x2ca3b3e7f4f216015833b0b334273d44493c0c45"
+    },
+    "0xb03d872196c0e84fe6fae841335001db44bda6c7": {
+      "decimals": "6",
+      "symbol": "LiBMG3",
+      "to": "asset#dfio_meta_main:0xb03d872196c0e84fe6fae841335001db44bda6c7"
+    }
+  },
+  "wemix": {
+    "0xcb7c000000000000000000000000000000000457": {
+      "decimals": "8",
+      "symbol": "cWBTC",
+      "to": "asset#dfio_meta_main:0xe94260c555ac1d9d3cc9e1632883452ebdf0082e"
+    },
+    "0x4c38f9a5ed68a04cd28a72e8c68c459ec34576f3": {
+      "decimals": "18",
+      "symbol": "cWWEMIX",
+      "to": "coingecko#wemix-token"
     }
   }
 }
